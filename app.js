@@ -61,3 +61,4 @@
     Backbone.history.start();
 })();
 
+//Test wheres git credentials were saved
